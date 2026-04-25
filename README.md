@@ -1,4 +1,4 @@
-![Header](./github-header-image.png)
+![Header](./github-header-banner_ero.png)
 <h2 align="left">I am a Python Engineer from Armenia.</h2>
 
 - 👨‍💻 Explore all of my projects on [GitHub](https://github.com/erik-nalbandyan?tab=repositories)
