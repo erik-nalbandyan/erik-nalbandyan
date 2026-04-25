@@ -1,16 +1,23 @@
-## Hi there 👋
+![Header](./github-header-image.png)
+<h2 align="left">I am a Python Engineer from Armenia.</h2>
 
-<!--
-**erik-nalbandyan/erik-nalbandyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👨‍💻 Explore all of my projects on [GitHub](https://github.com/erik-nalbandyan?tab=repositories)
 
-Here are some ideas to get you started:
+- 📄 Know about my experiences [CV]()</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Currently Searchin job as a Python Engineer Intern Level.
+
+- 📫 How to reach me **erik.nalbandyan2005@gmail.com**
+
+- 🎮🏆 Improving my coding skills with [CodeInGame](https://www.codingame.com/profile/ff307352ae5887ab5d31c0ee211b90a64527735)
+
+- 🌱 Actively expanding my knowledge in **Python Core**, **Working with API**, **Telegram BOT Knowledge**
+
+- 💬 Feel free to ask me about **Python, HTML, CSS**
+
+---
+
+<h1 align="left">Connect with me:</h1>
+<p align="left">
+<a href="https://www.linkedin.com/in/erik-nalbandyan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="erik-nalbandyan" height="30" width="40" /></a>
+</p>
